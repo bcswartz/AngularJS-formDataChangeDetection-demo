@@ -19,3 +19,5 @@ the view is rendered and then comparing that clone to the current model data to 
 The third example corrects a shortcoming of the second example when it comes to numeric fields:  the data model may initially
 contain a numeric value, but once the user changes that value in the form the value is saved back to the model as a string, so 
 that has to be accounted for.
+
+The demo is available at: https://bcswartz.github.io/AngularJS-formDataChangeDetection-demo
